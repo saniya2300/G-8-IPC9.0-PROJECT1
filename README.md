@@ -32,6 +32,14 @@ This page content information about Govt Of Maharasta Ministry,information about
 Govt Maha scheme,videos about top cities ,pdf and enquire form etc.
 - **Language Used** : HTML 5
 
+## **Service Page** ##
+
+![service page Screen Shot](./img/service.png)
+
+## Information about service page ##
+- **Page Link** : [Visit Service Page](https://g-8-ipc9-project1.netlify.app/) .
+- **Summery Of Page** : This is an Service Page.This page content information about Govt of Maharashtra Portal services, Maharashtra state commission for right to service, Employees groups and vacant seat, pdf of services online registration,service office maps and create profile etc .
+
 
 
 
