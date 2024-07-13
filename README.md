@@ -41,6 +41,14 @@ Govt Maha scheme,videos about top cities ,pdf and enquire form etc.
 - **Summery Of Page** : This is an Service Page.This page content information about Govt of Maharashtra Portal services, Maharashtra state commission for right to service, Employees groups and vacant seat, pdf of services online registration,service office maps and create profile etc .
 - **Language Used** : HTML 5
 
+## **Government Decision Page** ##
+
+![government decision page Screen Shot](./img/gov-dec-ss.png)
+
+## Information about government decision page ##
+- **Page Link** : [Visit government decision Page](https://g-8-ipc9-project1.netlify.app/pages/government-decision) .
+- **Summery Of Page** : This is an government decision Page.This page content information about Govt of Maharashtra Portal decisions, government resolutions, cabinate decisions, maharashtra state gazetteers, e-office user manual, public holiday and videos about holidays, citizen charter ,and littel feedback form .
+- **Language Used** : HTML 5
 
 
 
