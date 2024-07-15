@@ -59,7 +59,14 @@ Govt Maha scheme,videos about top cities ,pdf and enquire form etc.
 - **Summery of Page** :This is RTS Act Page i.e Right To Public Service Act. Right to Public Service Act has been constituted under the above Act to monitor, coordinate, control and improve the public services being provided by the Government.It contains information about RTS act and some services are provided in table format.
 - **Language Used** : HTML 5
 
+## **Achievement Page** ##
 
+![achievement page Screen Shot](./img/achievement.png)
+
+## Information about achievement page ##
+- **Page Link** : [Visit Achievement Page](https://g-8-ipc9-project1.netlify.app/pages/achievement) .
+- **Summery Of Page** : This is an Achievement Page.This page content information about Govt of Maharashtra Achievements .This page also contain rating for achivement of Govt Of Maharastra .This page contain feedback input for people who visit this site and give feedback on it .We also provide a pdf that contain no of acheviments done by Govt of Maharastra. 
+- **Language Used** : HTML 5
 
 ## About Contribute ##
 This is an open source project so that you can also improve this project.
