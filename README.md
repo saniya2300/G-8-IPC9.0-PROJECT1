@@ -50,7 +50,14 @@ Govt Maha scheme,videos about top cities ,pdf and enquire form etc.
 - **Summery Of Page** : This is an government decision Page.This page content information about Govt of Maharashtra Portal decisions, government resolutions, cabinate decisions, maharashtra state gazetteers, e-office user manual, public holiday and videos about holidays, citizen charter ,and littel feedback form .
 - **Language Used** : HTML 5
 
+## **RTS Act Page** ##
 
+![RTS Act page screenshot](./img/rts-act.png)
+
+## Information about RTS Act ##
+- **Page Link** :[Visit RTS Act Page](https://g-8-ipc9-project1.netlify.app/pages/rts-act)
+- **Summery of Page** :This is RTS Act Page i.e Right To Public Service Act. Right to Public Service Act has been constituted under the above Act to monitor, coordinate, control and improve the public services being provided by the Government.It contains information about RTS act and some services are provided in table format.
+- **Language Used** : HTML 5
 
 
 
